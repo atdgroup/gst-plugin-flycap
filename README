@@ -33,7 +33,7 @@ Building
 Building on linux is tested using the autogen script.
 Tested with flycapture2-2.8.3.1-amd64 on Ubuntu 12.04 64 bit.
 
-One first checkout run autogen.sh
+First run autogen.sh
 	$ chmod a+x autogen.sh
 	$ ./autogen.sh
 This will use autotools to setup the dev environment, and complete with the line:
